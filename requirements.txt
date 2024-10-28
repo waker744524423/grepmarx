@@ -21,3 +21,4 @@ wtforms==2.3.3
 redis==3.5.3
 semgrep==1.2.1
 appthreat-depscan==3.5.3
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
